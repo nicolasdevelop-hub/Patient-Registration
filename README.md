@@ -43,6 +43,9 @@ Patient #1:
 Chart Number (ID): 102
 Name: Alice
 Room Number: 305
+```
 
-👤 Author
+## 👤 Author
+```
 Developed by [Seu Nome] as part of my Computer Science studies (OSSU curriculum).
+```
