@@ -47,5 +47,5 @@ Room Number: 305
 
 ## 👤 Author
 ```
-Developed by [Seu Nome] as part of my Computer Science studies (OSSU curriculum).
+Developed by Nicolas as part of my Computer Science studies (OSSU curriculum).
 ```
